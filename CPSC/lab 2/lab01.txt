@@ -1,0 +1,20 @@
+Ashlyn Cooper
+C28299681
+CPSC 1010-002 and 1011-001
+Lab 01 - Exercise 1
+
+1. How many different text editors are installed on your workstation?
+   There are seven different text editors on the workstation.
+	Atom		GNU Emacs
+	Gedit		Vim
+	GVim		VS Code
+	Kate
+
+3. In order to delete a file I would either drag the file into the trash or go into the file manager and right click on the file and select "delete."
+
+4. Three web broswers are available. Chromium Web Browser, Google Chrome, and Mozilla Firefox. 
+Firefox does not support java or flash. Chrome and Chromium support flash. In order to determine flash/java support, I googled whether the browsers supported flash or java.
+
+5. Could use GIMP Image Editor or Inkscape to edit an image.
+
+6. To make the file system tree, first type "pwd" and then enter to make sure you are in the home directory. Then type "mkdir CPSC 1011" (or I typed CPSC_1011) and press enter the make the first folder in the tree. The type "cd CPSC 1011" and enter to move into that directory where you can create a new directory by typing "mk lab01." Then type "cd lab01" and enter that directory, where you can make the final directory in the filesystem tree by typing "mkdir inlab."
